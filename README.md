@@ -1,14 +1,14 @@
-### Flutter-Ultra-Pixels-Wallpaper-App
+## Flutter-Ultra-Pixels-Wallpaper-App
 
 This is my very first project on flutter and this one is version 1.0.0. I know it needs a alot of changes as learning will never ever ends and I also try to improve my skills
 so please dont judge me only this single project as it is my first flutter project. THANK YOU
 
 
-## INTRODUCTION
+### INTRODUCTION
 
 This is a wallpaper app from where you can download any type of wallpaper or images by searching. In this repository you can also find the APK file for your andriod phone to run and test the app. I am using the UNSPLASH API for getting the images . you can request API KEY from https://unsplash.com/documentation. 
 
-## SCREENSHOTS
+### SCREENSHOTS
 
 The first page is the home page where you get some by default categories, by clicking on this categories you can get the respective images.
 
