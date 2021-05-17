@@ -6,7 +6,7 @@ so please dont judge me only this single project as it is my first flutter proje
 
 ### INTRODUCTION
 
-This is a wallpaper app from where you can download any type of wallpaper or images by searching. In this repository you can also find the APK file for your andriod phone to run and test the app. I am using the UNSPLASH API for getting the images . you can request API KEY from https://unsplash.com/documentation. 
+This is a wallpaper app from where you can download any type of wallpaper or images by searching. I am using the UNSPLASH API for getting the images . you can request API KEY from https://unsplash.com/documentation. 
 
 ### SCREENSHOTS
 
@@ -27,3 +27,18 @@ Your image is downloaded in the the following path of your mobile phone. Go to f
 Android/data/com.example.ultra_pixels/files/https/images.unsplash.com/
 
 At this path you found your downloaded image.
+
+
+### GENERATE APK
+
+To generate APK file first clone the repository and open terminal and navigate to the ultra pixel folder and write the following command:
+
+flutter build apk
+
+By run this command you have new folder named build in ulter pixel project. navigate to
+build/app/outputs/apk/release/
+
+here you have apk file 
+
+install this apk on your android phone and enjoy!!!
+
