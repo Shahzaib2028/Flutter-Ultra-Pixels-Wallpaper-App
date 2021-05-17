@@ -9,3 +9,7 @@ This is a wallpaper app from where you can download any type of wallpaper or ima
 The first page is the home page where you get some by default categories, by clicking on this categories you can get the respective images.
 
 <img src="ultra_pixels/images/home.png" width = 300 height = 600>
+
+You can also search any category as you can see in below screenshort I search for apples.
+
+<img src="ultra_pixels/images/search.png" width = 300 height = 600>
