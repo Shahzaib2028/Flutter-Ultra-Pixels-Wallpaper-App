@@ -2,7 +2,7 @@
 
 ## INTRODUCTION
 
-This is a wallpaper app from where you can download any type of wallpaper or images by searching. In this repository you can also find the APK file for your andriod phone to run and test the app.
+This is a wallpaper app from where you can download any type of wallpaper or images by searching. In this repository you can also find the APK file for your andriod phone to run and test the app. I am using the UNSPLASH API for getting the images . you can request API KEY from https://unsplash.com/documentation. 
 
 ## SCREENSHOTS
 
@@ -13,3 +13,13 @@ The first page is the home page where you get some by default categories, by cli
 You can also search any category as you can see in below screenshort I search for apples.
 
 <img src="ultra_pixels/images/search.png" width = 300 height = 600>
+
+Then you can click on the image you like and you get a popup for download, so by click on yes the image is downloaded.
+
+<img src="ultra_pixels/images/download.png" width = 300 height = 600>
+
+Your image is downloaded in the the following path of your mobile phone. Go to file manager then
+
+Android/data/com.example.ultra_pixels/files/https/images.unsplash.com/
+
+At this path you found your downloaded image.
