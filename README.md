@@ -8,4 +8,4 @@ This is a wallpaper app from where you can download any type of wallpaper or ima
 
 The first page is the home page where you get some by default categories, by clicking on this categories you can get the respective images.
 
-<img src="ultra_pixels/images/home.png" width = 150 height = 1000>
+<img src="ultra_pixels/images/home.png" width = 200 height = 500>
